@@ -1,10 +1,10 @@
 # Videre <br>
 
-```markdown
+```cs
 
 # View IP history
 
-1 - git clone https://github.com/RodricBr/Videre
+# git clone https://github.com/RodricBr/Videre
 
 2 - cd Videre/;chmod u+x videre
 
