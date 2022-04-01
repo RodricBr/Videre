@@ -1,8 +1,6 @@
 # + Videre <br>
 
-<hr>
-
-## - View IP history using [Viewdns](https://viewdns.info/iphistory/)
+## View IP history using [Viewdns](https://viewdns.info/iphistory/)
 
 ```markdown
 
