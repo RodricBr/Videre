@@ -1,6 +1,6 @@
 # + Videre <br>
 
-## View IP history using [Viewdns](https://viewdns.info/iphistory/)
+## View IP history using [ViewDNS](https://viewdns.info/iphistory/)
 
 <img src="videre.png">
 
