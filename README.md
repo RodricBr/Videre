@@ -2,7 +2,7 @@
 
 ## View IP history using [Viewdns](https://viewdns.info/iphistory/)
 
-<img src=".videre.png">
+<img src="videre.png">
 
 ```markdown
 
