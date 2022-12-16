@@ -11,4 +11,4 @@ cd Videre/;chmod u+x videre
 ```
 
 > **IMPORTANT:** This program doesn't work at the moment, since viewdns has removed the ability to make requests using curl, or anything else. <br>
-> I'll find a way, but for now it doesn't work.
+> I'll find a way, maybe with other website, such as (https://dnshistory.org/dns-records/), but for now it doesn't work.
